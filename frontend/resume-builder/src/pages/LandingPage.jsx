@@ -29,7 +29,7 @@ const LandingPage = () => {
                     resume creator.
                 </p>
                 <p className='text-lg text-gray-700 mb-8'>
-                    efwefwf
+                    newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
                 </p>
                 <button
                     className='bg-purple-700 text-sm font-semibold text-white px-8 py-3 rounded-lg hover:bg-purple-400 transition-colors cursor-pointer'
